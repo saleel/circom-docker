@@ -9,7 +9,7 @@ Circom Version : 2.1.6
 You can pull the image from docker hub
 
 ```bash
-docker push saleel/circom:2.1.6
+docker pull saleel/circom:2.1.6
 ```
 
 ### Building Manually
